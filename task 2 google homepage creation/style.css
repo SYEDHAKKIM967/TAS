@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    margin-left: 90%;
+    justify-content: space-between;
+    margin-top: 9px;
+    align-items: center;
+}
+.top_left{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 50px;
+}

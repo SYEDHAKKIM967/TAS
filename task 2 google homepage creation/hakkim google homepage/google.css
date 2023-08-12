@@ -1,0 +1,43 @@
+.top{
+    padding-top: 130px;
+}
+
+span{
+    font-size: 100px;
+}
+body{
+    text-align: center;
+}
+
+input{width: 40vw;
+    height: 7vh;
+    border-radius: 45px 44px 44px 44px;
+    font-size:32px;
+}
+button{margin: 9px;
+    margin-top: 34px;
+    height: 4vh;
+    background: #fff;
+    border: #eee 1px solid;
+    text-align:center;
+    border-radius:11px 0px 0px 0px
+}
+a{
+    margin-top: 25px;
+    margin-right: 10px;
+    color:black;
+}
+
+span{
+    margin-top: 24px;
+}
+
+
+
+
+#navdiv{
+    display: flex;
+    align-items: center;
+    margin-left: 85%;
+    justify-content: space-between;
+}
